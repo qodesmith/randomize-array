@@ -10,7 +10,7 @@ npm install randomize-array
 
 ## Usage
 
-```
+```javascript
 // Import this fabulous utility.
 const randomize = require('randomize-array')
 
